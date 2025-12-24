@@ -1,0 +1,5 @@
+{
+  "name": "FinOS - Financial Web OS",
+  "description": "A high-end, glassmorphic financial dashboard featuring EMI, SIP, and GST tools with a windowed OS-style interface.",
+  "requestFramePermissions": []
+}
